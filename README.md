@@ -44,7 +44,11 @@ for the work done with the programs that are installed later, WhatsAsena
 is not responsible for the usage purpose and method of the users.
 Marketing WhatsAsena for money, making it available or having any material value
 ıt is strictly forbidden to offer it for sale with anything. All legal investigations that may arise
-the user is responsible.
+the user is responsible.# BOBIZ-MD
+
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@silana-aqua-boy/alihPublic=1)
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/silana-aqua-boy/alihPublic)
 ```
 
 
